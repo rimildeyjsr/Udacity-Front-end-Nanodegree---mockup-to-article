@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+**Reflections**
+I have made some basic websites before, hence i was already aware of the required markup to format the page. But I wasn't aware of the subscript tag mostly. It was an easy task, based on my familiarity with html and i didn't face much difficulty. Well, mostly I used the *asking for help* strategy since the rest of the project was fairly easy.
